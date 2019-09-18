@@ -1,0 +1,13 @@
+Pollutant, Primary/Secondary, Avg_Time, Level, Form
+Carbon Monoxide (CO), primary, 8 hours, 9 ppm, Not to be exceeded more than once per year
+1 hour, 35 ppm
+Lead (Pb), primary andsecondary, Rolling 3 month average, 0.15\xa0μg/m3(1), Not to be exceeded
+Nitrogen Dioxide (NO2), primary, 1 hour, 100 ppb, 98th percentile of 1-hour daily maximum concentrations, averaged over 3 years
+primary andsecondary, 1 year, 53 ppb(2), Annual Mean
+Ozone (O3), primary andsecondary, 8 hours, 0.070 ppm(3), Annual fourth-highest daily maximum 8-hour concentration, averaged over 3 years
+Particle Pollution (PM), PM2.5, primary, 1 year, 12.0 μg/m3, annual mean, averaged over 3 years
+secondary, 1 year, 15.0 μg/m3, annual mean, averaged over 3 years
+primary andsecondary, 24 hours, 35 μg/m3, 98th percentile, averaged over 3 years
+PM10, primary andsecondary, 24 hours, 150 μg/m3, Not to be exceeded more than once per year on average over 3 years
+Sulfur Dioxide (SO2), primary, 1 hour, 75 ppb(4), 99th percentile of 1-hour daily maximum concentrations, averaged over 3 years
+secondary, 3 hours, 0.5 ppm, Not to be exceeded more than once per year
